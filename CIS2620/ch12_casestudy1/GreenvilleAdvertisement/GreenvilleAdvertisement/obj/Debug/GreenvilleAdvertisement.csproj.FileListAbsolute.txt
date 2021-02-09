@@ -1,0 +1,10 @@
+E:\2020 school lsc\Spring 2021\Object Oriented - 2620\Data Files\Ch 12\HomeWork-ch12\casestudy1\GreenvilleAdvertisement\GreenvilleAdvertisement\bin\Debug\GreenvilleAdvertisement.exe.config
+E:\2020 school lsc\Spring 2021\Object Oriented - 2620\Data Files\Ch 12\HomeWork-ch12\casestudy1\GreenvilleAdvertisement\GreenvilleAdvertisement\bin\Debug\GreenvilleAdvertisement.exe
+E:\2020 school lsc\Spring 2021\Object Oriented - 2620\Data Files\Ch 12\HomeWork-ch12\casestudy1\GreenvilleAdvertisement\GreenvilleAdvertisement\bin\Debug\GreenvilleAdvertisement.pdb
+E:\2020 school lsc\Spring 2021\Object Oriented - 2620\Data Files\Ch 12\HomeWork-ch12\casestudy1\GreenvilleAdvertisement\GreenvilleAdvertisement\obj\Debug\GreenvilleAdvertisement.csprojAssemblyReference.cache
+E:\2020 school lsc\Spring 2021\Object Oriented - 2620\Data Files\Ch 12\HomeWork-ch12\casestudy1\GreenvilleAdvertisement\GreenvilleAdvertisement\obj\Debug\GreenvilleAdvertisement.Form1.resources
+E:\2020 school lsc\Spring 2021\Object Oriented - 2620\Data Files\Ch 12\HomeWork-ch12\casestudy1\GreenvilleAdvertisement\GreenvilleAdvertisement\obj\Debug\GreenvilleAdvertisement.Properties.Resources.resources
+E:\2020 school lsc\Spring 2021\Object Oriented - 2620\Data Files\Ch 12\HomeWork-ch12\casestudy1\GreenvilleAdvertisement\GreenvilleAdvertisement\obj\Debug\GreenvilleAdvertisement.csproj.GenerateResource.cache
+E:\2020 school lsc\Spring 2021\Object Oriented - 2620\Data Files\Ch 12\HomeWork-ch12\casestudy1\GreenvilleAdvertisement\GreenvilleAdvertisement\obj\Debug\GreenvilleAdvertisement.csproj.CoreCompileInputs.cache
+E:\2020 school lsc\Spring 2021\Object Oriented - 2620\Data Files\Ch 12\HomeWork-ch12\casestudy1\GreenvilleAdvertisement\GreenvilleAdvertisement\obj\Debug\GreenvilleAdvertisement.exe
+E:\2020 school lsc\Spring 2021\Object Oriented - 2620\Data Files\Ch 12\HomeWork-ch12\casestudy1\GreenvilleAdvertisement\GreenvilleAdvertisement\obj\Debug\GreenvilleAdvertisement.pdb
